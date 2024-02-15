@@ -20,6 +20,11 @@ nav {
     width: 485px;
     margin: 0 auto;
 }
+nav h2 {
+    visibility: hidden;
+    height: 0%;
+    font-size: x-small;
+}
 
 nav li {
     display:inline-block;
